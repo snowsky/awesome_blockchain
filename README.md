@@ -2,8 +2,6 @@
 
 ## Ethereum
 
-### Solidy
-
 - Token Sale Template: https://github.com/TokenMarketNet/ico
 - Solidity in Depth: http://solidity.readthedocs.io/en/latest/contracts.html#additional-resources-for-understanding-events
 - Watching Solidity Event: https://medium.com/@theMadKing/watching-solidity-events-the-right-way-d3d0a30bdc4d
