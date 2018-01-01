@@ -1,5 +1,7 @@
 # awesome_blockchain
 
+Intro: https://mastanbtc.github.io/blockchainnotes/
+
 ## Ethereum
 
 - Token Sale Template: https://github.com/TokenMarketNet/ico
